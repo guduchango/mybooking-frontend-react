@@ -68,7 +68,7 @@ Below you can find screenshots showcasing the main views and functionalities of 
 ### 🔑 Authentication
 
 <p align="center">
-  <img src="docs/login.png" alt="Login" width="400"/>
+  <img src="docs/login.png" alt="Login" width="200"/>
 </p>
 
 ---
@@ -76,7 +76,7 @@ Below you can find screenshots showcasing the main views and functionalities of 
 ### 🏠 Dashboard
 
 <p align="center">
-  <img src="docs/dash.png" alt="Dashboard" width="400"/>
+  <img src="docs/dash.png" alt="Dashboard" width="200"/>
 </p>
 
 ---
@@ -84,11 +84,11 @@ Below you can find screenshots showcasing the main views and functionalities of 
 ### 👥 Guest Management
 
 <p align="center">
-  <img src="docs/guest_list.png" alt="Guest list" width="400"/>
+  <img src="docs/guest_list.png" alt="Guest list" width="200"/>
 </p>
 
 <p align="center">
-  <img src="docs/guest_create_form.png" alt="Guest form" width="400"/>
+  <img src="docs/guest_create_form.png" alt="Guest form" width="200"/>
 </p>
 
 ---
@@ -96,15 +96,15 @@ Below you can find screenshots showcasing the main views and functionalities of 
 ### 🏘️ Unit Management
 
 <p align="center">
-  <img src="docs/unit_list.png" alt="Unit list" width="400"/>
+  <img src="docs/unit_list.png" alt="Unit list" width="200"/>
 </p>
 
 <p align="center">
-  <img src="docs/unit_create_form.png" alt="Unit form" width="400"/>
+  <img src="docs/unit_create_form.png" alt="Unit form" width="200"/>
 </p>
 
 <p align="center">
-  <img src="docs/unit_price_calendar.png" alt="Unit price calendar" width="400"/>
+  <img src="docs/unit_price_calendar.png" alt="Unit price calendar" width="200"/>
 </p>
 
 ---
@@ -112,23 +112,23 @@ Below you can find screenshots showcasing the main views and functionalities of 
 ### 📅 Reservation Management
 
 <p align="center">
-  <img src="docs/reservation_list.png" alt="Reservation list" width="400"/>
+  <img src="docs/reservation_list.png" alt="Reservation list" width="200"/>
 </p>
 
 <p align="center">
-  <img src="docs/reservation_check_availability.png" alt="Reservation check" width="400"/>
+  <img src="docs/reservation_check_availability.png" alt="Reservation check" width="200"/>
 </p>
 
 <p align="center">
-  <img src="docs/reservation_show_availability.png" alt="Reservation show" width="400"/>
+  <img src="docs/reservation_show_availability.png" alt="Reservation show" width="200"/>
 </p>
 
 <p align="center">
-  <img src="docs/reservation_create_form.png" alt="Reservation create form" width="400"/>
+  <img src="docs/reservation_create_form.png" alt="Reservation create form" width="200"/>
 </p>
 
 <p align="center">
-  <img src="docs/reservation_detail_form.png" alt="Reservation detail" width="400"/>
+  <img src="docs/reservation_detail.png" alt="Reservation detail" width="200"/>
 </p>
 
 
