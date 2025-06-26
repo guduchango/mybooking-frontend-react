@@ -59,31 +59,78 @@ react-project/
 
 ---
 
-## 📸 Screenshots
+## 📸 Project Screenshots
 
-![Login](docs/login.png)
+Below you can find screenshots showcasing the main views and functionalities of the MyBooking app.
 
-![Dashboard](docs/dash.png)
+---
 
-![Guest list](docs/guest_list.png)
+### 🔑 Authentication
 
-![Guest form](docs/guest_create_form.png)
+<p align="center">
+  <img src="docs/login.png" alt="Login" width="200"/>
+</p>
 
-![Unit list](docs/unit_list.png)
+---
 
-![Unit form](docs/unit_create_form.png)
+### 🏠 Dashboard
 
-![Unit price calendar](docs/unit_price_calendar.png)
+<p align="center">
+  <img src="docs/dash.png" alt="Dashboard" width="200"/>
+</p>
 
-![Reservation list](docs/reservation_list.png)
+---
 
-![Reservation check](docs/reservation_check_availability.png)
+### 👥 Guest Management
 
-![Reservation show](docs/reservation_show_availability.png)
+<p align="center">
+  <img src="docs/guest_list.png" alt="Guest list" width="200"/>
+</p>
 
-![Reservation create form](docs/reservation_create_form.png)
+<p align="center">
+  <img src="docs/guest_create_form.png" alt="Guest form" width="200"/>
+</p>
 
-![Reservation detail](docs/reservation_detail_form.png)
+---
+
+### 🏘️ Unit Management
+
+<p align="center">
+  <img src="docs/unit_list.png" alt="Unit list" width="200"/>
+</p>
+
+<p align="center">
+  <img src="docs/unit_create_form.png" alt="Unit form" width="200"/>
+</p>
+
+<p align="center">
+  <img src="docs/unit_price_calendar.png" alt="Unit price calendar" width="200"/>
+</p>
+
+---
+
+### 📅 Reservation Management
+
+<p align="center">
+  <img src="docs/reservation_list.png" alt="Reservation list" width="200"/>
+</p>
+
+<p align="center">
+  <img src="docs/reservation_check_availability.png" alt="Reservation check" width="200"/>
+</p>
+
+<p align="center">
+  <img src="docs/reservation_show_availability.png" alt="Reservation show" width="200"/>
+</p>
+
+<p align="center">
+  <img src="docs/reservation_create_form.png" alt="Reservation create form" width="200"/>
+</p>
+
+<p align="center">
+  <img src="docs/reservation_detail.png" alt="Reservation detail" width="200"/>
+</p>
+
 
 ---
 
