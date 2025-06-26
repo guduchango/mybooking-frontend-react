@@ -69,7 +69,7 @@ export const GlobalContextProvider = ({ children }: Props) => {
   }
  
   useEffect(() => {
-    i18n.changeLanguage('es');
+    i18n.changeLanguage('en');
     getData();
   },[unitPrice]);
 
