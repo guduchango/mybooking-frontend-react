@@ -1,0 +1,114 @@
+.page-edit{
+    padding-block: 5px;
+    padding-inline-end: 5px;
+    text-align: center;
+    font-size: 20px;
+    display: flex;
+}
+
+.table-reservationDetails {
+    display: block;
+    padding-block: 5px;
+    border-radius: 5px;
+}
+
+.table-reservationDetails p {
+    padding-inline: 5px;
+    padding-block-end: 5px;
+    font-size: 16px;
+}
+
+.reservationDetails-header {
+    display: grid;
+    grid-template-columns:  1fr 1fr;
+}
+
+.reservationDetails-header-subtitle p {
+    font-size: 14px;
+}
+
+.reservationDetails-header-left {
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-block: 10px;
+}
+
+.reservationDetails-header-right {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+
+.reservationDetails-header-title h1 {
+    padding-block: 5px;
+}
+
+.headerTitle-status {
+    background-color: var(--blue100);
+    border-radius: 5px;
+    padding-block: 5px;
+    padding-inline: 5px;
+}
+
+.reservationDetails-header-subtitle {
+    display: flex;
+    flex-direction: row;
+    margin-block: 5px;
+    justify-content: left;
+    gap: 5px;
+}
+
+.reservationDetails-header-subtitle  p{
+    display: flex;
+    align-items: center;
+}
+
+.reservationDetails-header-subtitle i {
+    font-size: 20px;
+}
+
+.table-reservationDetails-right {
+    text-align: left;
+}
+
+.table-reservationDetails-left {
+    text-align: left;
+}
+
+.editDetail-button-wrapper{
+    width: 100%; /* o cualquier otro ancho específico */
+    box-sizing: border-box;
+}
+
+.editDetail-button {
+    width: 100%;
+    cursor: pointer;
+    margin-block: 5px;
+    padding-block: 7px;
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: var(--blue400);
+}
+
+.reservationDetails-footer{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 5px;
+    padding-top: 15px;
+
+}
+
+.reservationDetailsBody-field {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid 1px var(--blue400);
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.reservationDetailsBody-field p {
+    
+    
+}

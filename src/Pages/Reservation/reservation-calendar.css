@@ -1,0 +1,15 @@
+.reservationCalendar-unitSelect {
+    padding-block-end: 10px;
+}
+
+.reservationCalendar-unitLabel {
+    padding-block: 5px;
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.reservationCalendarUnitSelect-height{
+    height: 200px;
+}

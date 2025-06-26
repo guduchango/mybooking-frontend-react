@@ -1,0 +1,16 @@
+
+
+.pagination {
+    display: flex;
+    justify-content: space-between;
+}
+
+.pagination a {
+    box-shadow: inset 0 0 0 1px red;
+    border-radius: 5px;
+    font-size: 40px;
+    padding-inline: 10px;
+    margin-inline: 10px;
+    display: flex;
+    justify-content: center;
+}

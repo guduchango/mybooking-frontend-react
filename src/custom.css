@@ -1,0 +1,385 @@
+a:link, a:visited {
+    text-decoration: none;
+    color: black;
+  }
+
+/* Page Back component */
+.page-back{
+    padding-block: 5px;
+    padding-inline-end: 5px;
+    border-bottom: 1px solid var(--blue950);
+}
+
+.pageback-wrapper{
+    margin-inline: 0px;
+    margin-block: 5px;
+    justify-content: space-between;
+    display: flex;
+
+}
+
+.pageback-wrapper i{
+    border-radius: 5px;
+    padding-inline: 10px;
+    padding-block: 5px;
+    font-size: 20px;
+    background-color: var(--blue100);
+    border: solid 1px var(--blue950) ;
+    color: var(--blue400);
+}
+
+/* General save form */
+.save-form{
+    margin-inline: 5px;
+}
+
+.save-form .field-group{
+    display: flex;
+    flex-direction: column;
+    margin-block: 5px;
+}
+
+.save-form .field-group label {
+    font-size: 16px;
+}
+
+.save-form .error {
+    color: var(--red10)
+}
+
+.save-form .field-group input,select {
+    font-size: 20px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-block: 5px;
+}
+
+.fieldGroup-button-save {
+    margin-block: 5px;
+    padding-block: 7px;
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: var(--blue400)
+}
+
+.saveForm-fielset{
+    font-size: 18px;
+    color: var(--blue800);
+    margin-block-start: 5px;
+    
+}
+
+.saveForm-wrapper{
+    margin-inline-start: 10px;
+    border-left: 1px solid var(--blue600);
+    padding-inline-start: 10px;
+}
+
+.saveForm-fielset p {
+    border-radius: 6px;
+    font-size: 18px;
+    font-weight: bold;
+    margin-block: 2px;
+    padding-block: 2px;
+    padding-inline-start: 5px;
+    background-color: var(--blue200);
+}
+
+.formError-wrapper{
+    border-radius:10px;
+    background-color: #FFF5F5;
+    font-size: 16px;
+    text-align: left;
+    padding-block: 2px;
+}
+
+.formError-wrapper ul{
+   margin-block: 0px;
+   margin-inline: 0px;
+}
+
+.formError-wrapper ul li{
+    margin-block: 5px;
+    margin-inline: 0px;
+    color: var(--red700)
+ }
+
+.fieldGroup-selectButton {
+    display: flex;
+    justify-content: space-between;
+}
+
+.fieldGroupSelectButton-icon {
+    display: flex;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: var(--blue400);
+    border-radius: 8px;
+}
+
+.fieldGroupSelectButton-select{
+    width: 85%;;
+}
+
+.field-readOnly p{
+    border-radius: 4px;
+    font-size: 18px;
+    font-weight: bold;
+    margin-block: 5px;
+    padding-block: 5px;
+    padding-inline-start: 5px;
+    background-color: var(--blue100);
+}
+
+.input-readOnly{
+    background-color: var(--blue300)
+}
+
+.fieldGroup-datePriceDetails{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.fieldGroupDatePriceDetails-wrapper{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5px;
+    background-color: var(--blue100);
+    margin-inline: 2px;
+    margin-block: 1px;
+    padding-inline: 5px;
+    border-radius: 8px;
+    padding-block: 5px;
+    align-content: center;
+    text-align: center;
+    
+}
+
+.fieldGroupDatePriceDetails-wrapper span:nth-child(1){
+    border-bottom: 1px solid var(--blue600);
+}
+
+
+.table {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin-block-end: 35px;
+    margin-block-start: 5px;
+}
+
+.table-row {
+    border-radius: 0.5rem;
+    border: solid 1px var(--blue950);
+    box-shadow: 2.5px 2.5px 5px 1px rgba(0, 0, 0, 0.5);
+    transition: box-shadow 0.3s, transform 0.3s;
+    cursor: pointer;
+    /* flex-direction: row;
+    justify-content: space-between; */
+    /* display: grid; */
+    /* grid-template-columns: 250px 1fr; */
+}
+.table-row:nth-child(odd){
+    background-color: white
+}
+
+.table-row:nth-child(even){
+    background-color: var(--blue50);
+}
+
+.tableRow-NotResult {
+    display: flex;
+    border: solid 1px var(--blue950);
+    align-items: center;
+    justify-content: center;
+    padding-block: 10px;
+    font-size: 16px;
+    border-radius: 0.5rem;
+    color: var(--red600)
+}
+
+
+.tableRow-footer p{
+    font-weight: 700;
+}
+
+.tableRow-wrapper {
+    margin-inline: 15px;
+    margin-block: 5px;
+}
+
+.tableRow-wrapper p {
+    margin: 0;
+}
+
+.tableRowReservartion-wrapper{
+    margin-inline: 15px;
+    margin-block: 5px;
+    display: grid;
+    grid-template-columns: 1.5fr 0.5fr; /* Divide en dos columnas iguales */
+    gap: 10px;
+}
+
+.tableRowReservartion-right{
+    display: flex;
+    justify-content: right;
+}
+
+.tableRowReservartion-right p{
+    display: flex;
+    justify-content: right;
+    margin-block: 2px;
+    padding-inline: 5px;
+    padding-block: 2px;
+    border-radius: 5px;
+    font-size: 12px;
+    border: solid 1px var(--blue800);
+}
+
+.status-pending p{
+    background-color: var(--yellow100);
+}
+
+.status-approved p{
+    background-color: var(--green100);
+}
+
+.status-canceled p{
+    background-color: var(--red200);
+}
+
+.status-finished p{
+    background-color: var(--pink200);
+}
+
+.tableRow-title {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.tableRow-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    font-size: 14px;
+    align-items: center;
+}
+
+.tableRow-header i {
+    font-size: 16px;
+}
+
+.tableRow-body{
+    font-size: 14px;
+}
+.tableRow-body p {
+    padding: 2px;
+}
+
+.tableRow-footer p {
+    padding: 5px;
+    font-size: 16px;
+    display: flex;
+    justify-content: end;
+}
+
+.filter-wrapper {
+    display: flex;
+    flex-direction: column;
+    margin-block-start: 5px;
+}
+
+.filter-icons {
+    display: flex;
+    justify-content: end;
+}
+
+.filter-icons i {
+    font-size: 18px;
+}
+
+.filter-input {
+    display: inline-block;
+    max-width: 100%;
+    padding-inline: 5px;
+}
+
+.filter-input input {
+    width: 100%;
+    box-sizing: border-box;
+    line-height: 20px;
+    margin-block-end: 5px;
+}
+
+.showBox {
+    display: grid;
+    grid-template-columns: 1.5fr 0.5fr; /* Divide en dos columnas iguales */
+    gap: 10px;
+}
+
+.showBox-select{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.showBox-select select {
+    border-radius: 3;
+    background-color: 0;
+}
+
+.showBox-input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.showBox-input input {
+    margin-block-end: 0;
+}
+
+.reservationPriceDetail-wrapper{
+    border: var(--blue600) solid 1px;
+    border-radius: 0.5rem;
+    margin-block-end: 10px;
+}
+
+.reservationPriceDetail{
+    padding: 10px;
+    font-size: 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.reservationAdvanceDetail{
+    padding: 2px;
+    font-size: 16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    align-items: center;
+}
+
+.reservationAdvanceDetail .priceBold {
+    font-weight: 500;
+}
+
+.reservationPriceDetail .priceBold{
+    font-weight: 500;
+}
+
+.headerTitle-price {
+    background-color: var(--blue100);
+    border-radius: 5px;
+    padding-block: 5px;
+    padding-inline: 5px;
+}
+

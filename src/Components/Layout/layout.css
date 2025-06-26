@@ -1,0 +1,10 @@
+.layout{
+    inline-size: 100%;
+    padding-block-end: 50px;
+}
+
+.layout-wrapper {
+    max-inline-size: 100%;
+    block-size: 100%;
+    margin: auto;
+}

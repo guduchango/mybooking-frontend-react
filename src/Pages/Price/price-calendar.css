@@ -1,0 +1,8 @@
+.price-calendar {
+    margin-block-end: 20px;
+}
+
+.rbc-event {
+    background-color: var(--blue200) !important;
+    color: var(--blue950) !important;
+}
