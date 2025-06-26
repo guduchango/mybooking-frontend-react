@@ -59,23 +59,31 @@ react-project/
 
 ---
 
-## 🖼 Screenshots
-```
-![Login](docs/login.png)
-![Dashboard](docs/dash.png)
-![Guest list](docs/guest_list.png)
-![Guest form](docs/guest_create_form.png)
-![Unit list](docs/unit_list.png)
-![Unit form](docs/unit_create_form.png)
-![Unit form](docs/unit_price_calendar.png)
-![Reservation list](docs/reservation_list.png)
-![Reservation check](docs/reservation_check_availability.png)
-![Reservation show](docs/reservation_show_availability.png)
-![Reservation form](docs/reservation_create_form.png)
-![Reservation detail](docs/reservation_detail_form.png)
-```
+## 📸 Screenshots
 
-To upload images, place them in a `docs/` folder inside the repository.
+![Login](docs/login.png)
+
+![Dashboard](docs/dash.png)
+
+![Guest list](docs/guest_list.png)
+
+![Guest form](docs/guest_create_form.png)
+
+![Unit list](docs/unit_list.png)
+
+![Unit form](docs/unit_create_form.png)
+
+![Unit price calendar](docs/unit_price_calendar.png)
+
+![Reservation list](docs/reservation_list.png)
+
+![Reservation check](docs/reservation_check_availability.png)
+
+![Reservation show](docs/reservation_show_availability.png)
+
+![Reservation create form](docs/reservation_create_form.png)
+
+![Reservation detail](docs/reservation_detail_form.png)
 
 ---
 
